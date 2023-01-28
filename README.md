@@ -10,7 +10,7 @@
     - 將解壓縮後所有檔案複製到遊戲根目錄
 1. 安裝翻譯模組
     - 下載 [翻譯模組](https://github.com/Muchaszewski/DSP_TranslationMod/releases) 並解壓縮
-    - 將壓縮檔內所有 DLL 複製到 `{遊戲根目錄}\BepInEx\plugins\DSPTranslationPlugin` （若資料夾不存在請自行建立資料夾）
+    - 將壓縮檔內所有 DLL 複製到 `{遊戲根目錄}\BepInEx\plugins\DSPTranslationPlugin`（若資料夾不存在請自行建立資料夾）
 1. 安裝繁體中文翻譯檔
     - 下載 [本翻譯檔](https://github.com/gnehs/translation_DysonSphereProgram/archive/refs/heads/main.zip) 並解壓縮
     - 將 `res` 資料夾中的所有檔案複製到 `{遊戲根目錄}\DSPGAME_Data\Translation\zh-TW\` 中（若資料夾不存在請自行建立資料夾）
